@@ -3,7 +3,7 @@
 Este repositório contém os desafios do **Mundo 2** de Python (Curso em Vídeo). O foco aqui é o domínio das estruturas de repetição e condições aninhadas.
 
 **📅 Registro de Estudo:**
-* **Início:** ??/??/????
+* **Início:** 21/12/2025
 * **Conclusão:** 🚧 *Em andamento*
 * **Aulas Abordadas:** 12 até 15
 * **Desafios Contidos:** 036 ao 071
