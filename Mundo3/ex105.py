@@ -9,14 +9,14 @@ de alunos e vai retornar um dicionário com as seguintes informações:
 """
 
 def notas(*n, sit=False):
-    notas = list()
-    notas = n[:]
-    media = sum(notas) / len(notas)
+    nota = list()
+    nota = n[:]
+    media = sum(nota) / len(nota)
 
     relatorio = {
-        'Total': len(notas),
-        'Maior': max(notas),
-        'Menor': min(notas),
+        'Total': len(nota),
+        'Maior': max(nota),
+        'Menor': min(nota),
         'Media': media
     }
     if sit:
